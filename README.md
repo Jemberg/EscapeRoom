@@ -15,8 +15,8 @@ Players navigate through a series of randomly generated VR rooms, solving riddle
 - **Randomized Room Selection**: Dynamic level ordering ensures high replayability and surprise factor
 - **Interactive Puzzles & Riddles**: Environment-based problem solving with tactile VR interactions
 - **Multiple Mini-Games**: Memory, Sphere Shooting, Basketball, PIN Finding, Maze, Colorful Buttons, Lever, and Coin Collector challenges
-- 🌐 **Core Systems**: Leaderboard tracking, dynamic scene switching, VR navigation, and tutorial onboarding
-- 🛠️ **Optimized Workflow**: Heavy reliance on existing assets and community resources to accelerate development
+- **Core Systems**: Leaderboard tracking, dynamic scene switching, VR navigation, and tutorial onboarding
+- **Optimized Workflow**: Heavy reliance on existing assets and community resources to accelerate development
 
 ---
 
@@ -24,5 +24,5 @@ Players navigate through a series of randomly generated VR rooms, solving riddle
 - **Engine**: Unity
 - **Language**: C#
 - **Version Control**: Git (with Unity-specific `.gitignore` & LFS considerations)
-- **VR Integration**: Unity XR Interaction Toolkit / OpenXR *(configure based on target headset)*
+- **VR Integration**: Unity XR Interaction Toolkit / OpenXR
 - **Audio**: Unity Audio Mixer + open-source/community sound libraries
